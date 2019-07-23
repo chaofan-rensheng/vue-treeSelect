@@ -1,6 +1,10 @@
 # tree-select
 
 > A Vue.js project
+## SelectTree是组合element里面的select和tree两者实现的，可以实现多选，单选，同时选中以后关闭下拉框等操作
+效果如图
+![](https://github.com/chaofan-rensheng/vue-treeSelect/blob/master/image/1.gif)
+![](https://github.com/chaofan-rensheng/vue-treeSelect/blob/master/image/2.gif)
 
 ## Build Setup
 
